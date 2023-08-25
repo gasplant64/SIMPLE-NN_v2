@@ -84,6 +84,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
+#html_theme_path = ["_themes", ]
 html_logo = 'logo.png'
 html_theme_options = {
     'logo_only': True,

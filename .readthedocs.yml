@@ -21,4 +21,6 @@ formats:
 build:
   os: ubuntu-22.04
   tools:
-    python: '3.8'
+    python: '3.7'
+      install:
+        - requirements: docs/requirements.txt
